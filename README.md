@@ -27,7 +27,6 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
