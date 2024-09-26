@@ -18,9 +18,9 @@
 
 
 ### Connect with Me :
+<a href="https://www.linkedin.com/in/ahmed-mohamed-abdallah-730a3a212/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed Mohamed %20Abdallah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=61550147305302" target="_blank"><img src="https://img.shields.io/badge/-Ahmed M%20Mohamed-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/ahmed-mohamed-abdallah-730a3a212/" target="_blank"></a>
-<a href="https://www.facebook.com/profile.php?id=61550147305302" target="_blank"></a>
 ### 🛠 &nbsp;Tech Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![kotlin](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin)&nbsp;
