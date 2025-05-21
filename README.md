@@ -92,7 +92,7 @@
 - 🧠 **Medical Portal** – React + Django  
 - 🌐 **Freelancing Platform** – Vue.js + Laravel  
 - 📱 **Dalel App & Bookly App** – Flutter, Firebase, Bloc  
-- 🤖 **Harvesting Robot** – AI + Embedded Systems (Graduation Project)
+- 🤖 **Harvesting Robot** – AI+ Embedded Systems (Graduation Project)
 
 ---
 
