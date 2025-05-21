@@ -77,7 +77,7 @@
 
 <p align="center">
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED739268" alt="GitHub Streak" />
+ <img src="https://github-readme-stats.vercel.app/api?username=AHMED739268&show_icons=true&theme=tokyonight" width="47%">
 
 
 
